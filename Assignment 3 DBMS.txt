@@ -1,0 +1,10 @@
+Assignment -3 :-
+
+1) Does ANSI recognize the data type DATE?
+ Ans: Yes, date compiles with the ANSI SQL standard definition for the Gregorian calendar.
+          The default string format for the SQL standard form is YYYY-MM-DD.
+
+2)Which subdivision of SQL is used to insert values in tables ?
+ Ans: The DML (Data Manipulation Language) is used to insert values in tables.
+         To insert values in the tables simply use INSERT command. 
+          For eg : insert into values(r1,r2,r3).

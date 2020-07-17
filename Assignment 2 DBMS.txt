@@ -1,0 +1,14 @@
+Assignment - 2 :-
+
+1) Which field of the Customers table is the primary key?
+Ans: Customer number : cnum.
+
+2) What is the 4th column of the Customers table?
+Ans: Rating
+
+3) What is another word for row? For column?
+Ams: For Row : record,tuple,entity,opportunity.
+         For Column: attribute,field,method.
+
+4) Why isn't it possible to see the first five rows of a table?
+Ans: As rows don't have orders ,hence it's not possible to see the first five rows of the table. 
