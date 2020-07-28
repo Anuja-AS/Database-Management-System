@@ -1,3 +1,7 @@
+Anuja Shirsath
+200240320021
+
+
 Assignnment - 5 :-
 
 1) select * from orders where amt>1000;
